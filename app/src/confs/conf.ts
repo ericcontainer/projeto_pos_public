@@ -1,0 +1,1 @@
+export const urlendpoint = "http://localhost:5002/v1/public";

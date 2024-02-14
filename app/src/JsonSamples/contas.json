@@ -1,0 +1,34 @@
+{
+    "data" : [
+        {
+            "id" : 1,
+            "nome": "conta 1",
+            "descricao": "conta principal 1",
+            "usuario": "@eric",
+            "senha": "minhasenha",
+            "created_at": "24061984",
+            "updated_at": "24061984",
+            "id_empresa": 123,
+            "campanhas": [
+                {
+                    "nome": "campanha1",
+                    "descricao": "campnha de natal",
+                    "data_inicio": "25082025",
+                    "data_fim": "25082025",
+                    "created_at": "24061984",
+                    "updated_at": "24062023",
+                    "status": "ativa",
+                    "posts": [
+                        {
+                            "nome": "post 1",
+                            "descricao": "descricao do post 1",
+                            "created_at": "24061984",
+                            "updated_at": "24061984",
+                            "data_publicacao": "25072023"
+                        }
+                    ]
+                }
+            ]   
+        }
+    ]
+  }

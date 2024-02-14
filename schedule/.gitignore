@@ -1,0 +1,6 @@
+__pycache__/server.cpython-38.pyc
+*.pyc
+
+venv/*
+executed/*.sc
+schedule/*.sc

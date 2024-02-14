@@ -1,0 +1,18 @@
+{
+    "id" : 1,
+    "nome":"Grupo Admin",
+    "descrição": "Acesso ful a conta",
+    "created_at": "24061984",
+    "updated_at": "24071984",
+    "ususarios": [
+        {
+            "id": 123123,
+            "nome": "Eric M",
+            "photo" : "",
+            "observacao": "Usuário Principal da conta",
+            "created_at": "24061984",
+            "status": "ativo",
+            "perfil": 1
+        }
+    ]
+}

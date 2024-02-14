@@ -1,0 +1,10 @@
+{
+    "id": 123123,
+    "nome": "Eric M",
+    "photo" : "",
+    "observacao": "Usuário Principal da conta",
+    "created_at": "24061984",
+    "status": "ativo",
+    "perfil": 1,
+    "grupo": 1
+}

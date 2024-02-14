@@ -1,0 +1,4 @@
+/venv
+src/instabot/videos/*
+src/instabot/images/*
+src/instabot/album/*

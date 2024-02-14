@@ -1,0 +1,17 @@
+{
+    "id" : 1,
+    "nome":"System Admin",
+    "descrição": "Acesso ful a conta",
+    "created_at": "24061984",
+    "updated_at": "24071984",
+    "usuarios": [
+        {
+            "id": 123123,
+            "nome": "Eric M",
+            "photo" : "",
+            "observacao": "Usuário Principal da conta",
+            "created_at": "24061984",
+            "status": "ativo"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "id" : 1,
+            "nome": "post 1",
+            "descricao": "descricao do post 1",
+            "status": "ativo",
+            "created_at": "24061984",
+            "updated_at": "24061984",
+            "data_publicacao": "25072023"
+        }
+    ]
+}

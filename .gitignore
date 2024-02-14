@@ -1,0 +1,10 @@
+
+backend_pos/src/firebase.json
+schedules/firebase.json
+app/node_modules
+backend_pos/venv
+schedules/venv
+
+schedule/test.sh
+.vscode
+

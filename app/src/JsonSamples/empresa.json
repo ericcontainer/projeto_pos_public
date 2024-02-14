@@ -1,0 +1,43 @@
+{
+    "id": 12,
+    "nome": "Control P",
+    "descricao": "Control P empreendimentos",
+    "created_at": "24061984",
+    "updated_at": "24062023",
+    "status": "ativo",
+    "cnpj": "12311320001-18",
+    "contas": [
+      {
+        "id" : 1,
+        "nome": "conta 1",
+        "descricao": "conta principal 1",
+        "created_at": "24061984",
+        "updated_at": "24061984",
+        "id_empresa": 21440,
+        "campanhas": [
+          {
+            "id" : 1,
+            "nome": "campanha1",
+            "descricao": "campnha de natal",
+            "data_inicio": "25082025",
+            "data_fim": "25082025",
+            "created_at": "24061984",
+            "updated_at": "24062023",
+            "status": "ativa",
+            "id_conta" : 123,
+            "posts": [
+              {
+                "id" : 1,
+                "nome": "post 1",
+                "descricao": "descricao do post 1",
+                "created_at": "24061984",
+                "updated_at": "24061984",
+                "data_publicacao": "25072023",
+                "id_campanha": 123
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
